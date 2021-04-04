@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas_RecycleListView</string>
+
+    <string-array name="Country_list">
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Malaysia</item>
+        <item>Arab Saudi</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Philipina</item>
+        <item>Amerika Serikat</item>
+        <item>Belgium</item>
+        <item>Balarus</item>
+        <item>Banglades</item>
+    </string-array>
+</resources>
